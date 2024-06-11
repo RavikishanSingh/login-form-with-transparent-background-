@@ -1,7 +1,6 @@
 Login Form
 This is a simple login form designed by Ravikishan Singh.
-
-![image](https://github.com/RavikishanSingh/login-form-with-transparent-background-/assets/171975900/9d3f2f09-f5e4-44b8-bacf-a3b87d01c344)
+![Untitled](https://github.com/RavikishanSingh/login-form-with-transparent-background-/assets/171975900/293164c0-3078-4e2e-a071-d33eefedfec1)
 
 Table of Contents
 Introduction
